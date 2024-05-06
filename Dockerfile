@@ -1,7 +1,7 @@
 #On choisit une debian
 FROM debian:12.5
 
-#LABEL org.opencontainers.image.authors="amirouchef@gmail.com"
+#LABEL org.opencontainers.image.authors="angedonald.mouandampassi@gmail.com"
 
 
 #Ne pas poser de question à l'installation
